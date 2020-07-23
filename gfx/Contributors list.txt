@@ -1,0 +1,44 @@
+WELCOME TO THE RESRGAN 16xre-upscale HD texture pack
+check the forum or github post for updates
+http://sm64pc.info/forum/viewtopic.php?
+https://github.com/pokeheadroom/RESRGAN-16xre-upscale-HD-texture-pack
+
+check out the official discord sm64 pc port discord server
+https://discord.gg/N55hAaN
+
+initial esrgan upscale by ♛Erableto♛
+esrgan upscaling organizer script by ♛erableto♛
+re-upscales and tweaked seamless upscales by pokeheadroom
+testing by son aka somefairy and tanooki12
+special shoutouts to JAGSTAX for showing incredible ammounts of support
+
+Cleaner Aesthetics  Contributors: 
+Hakobe, 
+Nathan, 
+gunvalk, 
+Guh Huh, 
+grego, 
+Ultra553, 
+Dr.Sci-Fi, 
+Derailus, 
+CrashPro, 
+Fanamel, 
+FignetKazook, 
+Roovahlees, 
+Vertigo, 
+Fanfreluche, 
+Mazeo, 
+Cazsu, 
+
+
+♛project specific contributors♛
+----------------------------------
+Erableto
+granvillimus
+PokeHeadroom
+♛p3st♛
+erableto
+ShockinglySane
+Pat
+CyberCat
+garrit[jkl]
