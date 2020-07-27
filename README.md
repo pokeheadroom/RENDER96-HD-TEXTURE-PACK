@@ -1,5 +1,6 @@
 # RESRGAN-RENDER96-HD-texture-pack
 https://www.youtube.com/watch?v=ZbMgDLf5-yM
+Huge shoutouts to DorfDork for creating the SGI/RENDER96 PROJECT and for letting me be a part of it
 
 a collaboration texture pack for super mario 64 with the people over at the oldschoolhd now formerly known as render 96 or n64 sgi project that is made of a compillation of the best results esrgan upscaling could make as the base for this project as well of some of the original textures nintendo used, and a heavier focus in original textures made by project contributors.
 the end goal for this project is to use the original sources for every texture in the game when possible and use that to hopefully achieve 100% accuracy by recreating the textures with the same process and resources nintendo had at their disposal back in 1996 as well of incorporating elements from the promotional art into the game with esrgan upscales and original textres by the team filling the blanks where no sources could be found
@@ -18,9 +19,6 @@ re-upscales and tweaked seamless upscales by pokeheadroom
 testing by son aka somefairy and tanooki12
 
 special shoutouts to JAGSTAX for showing incredible ammounts of support
-
-♛project specific contributors♛
-----------------------------------
 |Erableto|
 |granvillimus|
 |PokeHeadroom|
@@ -32,8 +30,10 @@ special shoutouts to JAGSTAX for showing incredible ammounts of support
 |garrit[jkl]|
 |roovahlees|
 
-Branch specific contributors:
+Render 96 contributors:
 ------------------------------
+DorfDork
+
 Clamibalism
 
 Fanamel	"Found Matches/Provided Hires Links
