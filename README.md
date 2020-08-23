@@ -38,6 +38,8 @@ Granvmillus Worked on adding textures
 
 Maxigamer Worked on Fonts and hud elements https://twitter.com/MaxiGamerART
 
+Nicobros Worked on painting artwork
+
 P3ST Provided placeholder Assets
 
 *Resrgan contributors*
