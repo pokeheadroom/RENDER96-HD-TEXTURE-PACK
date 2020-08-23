@@ -42,6 +42,8 @@ Nicobros Worked on painting artwork
 
 P3ST Provided placeholder Assets
 
+YinyangGio1987 worked on wdw render painting https://twitter.com/YinyangGio1987
+
 *Resrgan contributors*
 ------------------------
 Texture pack by PokeHeadroom
