@@ -8,30 +8,6 @@ the end goal for this project is to use the original sources for every texture i
 
 
 Render 96/oldschool hd Discord server: discord.gg/DZU3FSD
-*Resrgan contributors*
-
-Texture pack by PokeHeadroom
-
-initial esrgan upscale by ♛Erableto♛
-
-esrgan upscaling organizer script by ♛erableto♛
-
-re-upscales and tweaked seamless upscales by pokeheadroom
-
-testing by son aka somefairy and tanooki12
-
-special shoutouts to JAGSTAX for showing incredible ammounts of support
-|Erableto|
-|granvillimus|
-|PokeHeadroom|
-|♛p3st♛|
-|erableto|
-|ShockinglySane|
-|Pat|
-|CyberCat|
-|garrit[jkl]|
-|roovahlees|
-
 Render 96 contributors:
 ------------------------------
 DorfDork
@@ -55,6 +31,38 @@ Uh-Huh	Found Matches/Provided Hires Links
 Pik	Found Matches	
 
 Threeplanet66 Worked on adding textures
+
+TheExpectedknight Worked on adding textures
+
+Granvmillus Worked on adding textures
+
+Maxigamer Worked on Fonts and hud elements https://twitter.com/MaxiGamerART
+
+P3ST Provided placeholder Assets
+
+*Resrgan contributors*
+------------------------
+Texture pack by PokeHeadroom
+
+initial esrgan upscale by ♛Erableto♛
+
+esrgan upscaling organizer script by ♛erableto♛
+
+re-upscales and tweaked seamless upscales by pokeheadroom
+
+testing by son aka somefairy and tanooki12
+
+special shoutouts to JAGSTAX for showing incredible ammounts of support
+|Erableto|
+|granvillimus|
+|PokeHeadroom|
+|♛p3st♛|
+|erableto|
+|ShockinglySane|
+|Pat|
+|CyberCat|
+|garrit[jkl]|
+|roovahlees|
 
 pack originally based on the work done by the cleaner aesthetics team: check them out https://github.com/CrashCrod/Cleaner-Aesthetics
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-06.png)
