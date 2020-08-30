@@ -2,9 +2,9 @@
 https://www.youtube.com/watch?v=ZbMgDLf5-yM
 Huge shoutouts to DorfDork for creating the RENDER96 PROJECT and for letting me be a part of it
 
-a collaboration texture pack for super mario 64 with the people over at the oldschoolhd now formerly known as render 96 that is made of a compillation of the best results esrgan upscaling could make as the base for this project as well of some of the original textures nintendo used, and a heavier focus in original textures made by project contributors which will eventually an overwhelming majority of what resrgan offered.
+a collaboration texture pack for super mario 64 with the people over at the oldschoolhd now known as render 96 that is made of a compillation of the best results esrgan upscaling could make as the base for this project as well of some of the original textures nintendo used, and a heavier focus in original textures made by project contributors which will eventually be an overwhelming majority of what this project is made of.
 
-the end goal for this project is to use the original sources for every texture in the game when possible and use that to hopefully achieve 100% accuracy by recreating the textures with the same process and resources nintendo had at their disposal back in 1996 as well of incorporating elements from the promotional art into the game with esrgan upscales and original textres by the team filling the blanks where no sources could be found
+the end goal for this project is to use the original sources for every texture in the game when possible and use that to hopefully achieve 100% accuracy by recreating the textures with the same process and resources nintendo had at their disposal back in 1996 as well of incorporating elements from the promotional art into the game with esrgan upscales as placeholders for the original textures the team and i will make to fill in the blanks where no texture sources could be found
 
 
 Render 96/oldschool hd Discord server: discord.gg/DZU3FSD
