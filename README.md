@@ -1,5 +1,6 @@
 # RESRGAN-RENDER96-HD-texture-pack
-https://www.youtube.com/watch?v=ZbMgDLf5-yM
+https://linktr.ee/Render96
+
 Huge shoutouts to DorfDork for creating the RENDER96 PROJECT and for letting me be a part of it
 
 a collaboration texture pack for super mario 64 with the people over at the oldschoolhd now known as render 96 that is made of a compillation of the best results esrgan upscaling could make as the base for this project as well of some of the original textures nintendo used, and a heavier focus in original textures made by project contributors which will eventually be an overwhelming majority of what this project is made of.
@@ -20,7 +21,7 @@ Maintains Spreadsheet"	https://twitter.com/FanamelT
 
 Roovahlees	Found Matches/Provided Hires Links	https://www.youtube.com/channel/UCrOHwRwupiQSqbKih14MnHQ
 
-Poke Headroom	Found Matches/Provided Hires Links	https://twitter.com/PokeHeadroom
+Poke Headroom	Found Matches/Provided Hires Links render 96 texture pack lead	https://twitter.com/PokeHeadroom
 
 JY	Found Matches/Provided Hires Links	https://twitter.com/jycompany_
 
@@ -46,29 +47,9 @@ YinyangGio1987 worked on wdw render painting https://twitter.com/YinyangGio1987
 
 *Resrgan contributors*
 ------------------------
-Texture pack by PokeHeadroom
+https://github.com/pokeheadroom/RESRGAN-16xre-upscale-HD-texture-pack/tree/n64-resrgan-faithful
 
-initial esrgan upscale by ♛Erableto♛
-
-esrgan upscaling organizer script by ♛erableto♛
-
-re-upscales and tweaked seamless upscales by pokeheadroom
-
-testing by son aka somefairy and tanooki12
-
-special shoutouts to JAGSTAX for showing incredible ammounts of support
-|Erableto|
-|granvillimus|
-|PokeHeadroom|
-|♛p3st♛|
-|erableto|
-|ShockinglySane|
-|Pat|
-|CyberCat|
-|garrit[jkl]|
-|roovahlees|
-
-pack originally based on the work done by the cleaner aesthetics team: check them out https://github.com/CrashCrod/Cleaner-Aesthetics
+pack originally based on the work done by the cleaner aesthetics (circa may 2020) team: check them out https://github.com/CrashCrod/Cleaner-Aesthetics
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-06.png)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-23.png)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-53-27.png)
