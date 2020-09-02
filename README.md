@@ -1,4 +1,4 @@
-# RESRGAN-RENDER96-HD-texture-pack
+RENDER96-HD-texture-pack
 https://linktr.ee/Render96
 
 Huge shoutouts to DorfDork for creating the RENDER96 PROJECT and for letting me be a part of it
