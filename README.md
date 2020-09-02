@@ -50,7 +50,7 @@ YinyangGio1987 worked on wdw render painting https://twitter.com/YinyangGio1987
 ------------------------
 https://github.com/pokeheadroom/RESRGAN-16xre-upscale-HD-texture-pack/tree/n64-resrgan-faithful
 
-pack originally based on the work done by the cleaner aesthetics (circa may 2020) team: check them out https://github.com/CrashCrod/Cleaner-Aesthetics
+Resrgan originally based on the work done by the cleaner aesthetics (circa may 2020) team: check them out https://github.com/CrashCrod/Cleaner-Aesthetics
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-06.png)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-23.png)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-53-27.png)
