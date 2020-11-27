@@ -1,4 +1,4 @@
-RENDER96-HD-texture-pack
+RENDER96-HD-TEXTURE-PACK
 --------------------------
 https://linktr.ee/Render96
 
@@ -42,13 +42,13 @@ Nicobros - Worked on painting artwork
 
 P3ST - Provided Placeholder Assets
 
-[YinyangGio1987](https://twitter.com/YinyangGio1987) - worked on WDW render painting
+[YinyangGio1987](https://twitter.com/YinyangGio1987) - Worked on WDW render painting
 
 *RESRGAN contributors*
 ------------------------
 https://github.com/pokeheadroom/RESRGAN-16xre-upscale-HD-texture-pack/tree/n64-resrgan-faithful
 
-RESRGAN originally based on the work done by the cleaner aesthetics (circa May 2020) team: Check them out https://github.com/CrashCrod/Cleaner-Aesthetics
+RESRGAN originally based on the work done by the cleaner aesthetics team, circa May 2020. [Check them out!](https://github.com/CrashCrod/Cleaner-Aesthetics)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-06.jpg)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-23.jpg)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-53-27.jpg)
