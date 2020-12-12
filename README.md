@@ -20,9 +20,9 @@ Clamibalism
 
 [Roovahlees](https://www.youtube.com/channel/UCrOHwRwupiQSqbKih14MnHQ) - Found Matches/Provided Hires Links
 
-[Poke Headroom](https://twitter.com/PokeHeadroom) - Found Matches/Provided Hires Links, Render 96 Texture Pack lead
+[Poke Headroom](https://twitter.com/PokeHeadroom) - Found Matches/Provided Hires Links, Worked on adding textures, Render 96 Texture Pack lead
 
-[JY](https://twitter.com/jycompany) - Found Matches/Provided Hires Links
+[JY](https://twitter.com/jycompany) - Found Matches/Provided Hires Links, Worked on adding textures
 
 Deefor - Found Matches/Provided Hires Links	
 
@@ -30,7 +30,7 @@ Uh-Huh - Found Matches/Provided Hires Links
 
 Pik - Found Matches	
 
-Threeplanet66 - Worked on adding textures
+[Threeplanet](https://twitter.com/TPlanet66) - Worked on adding textures
 
 TheExpectedknight - Worked on adding textures
 
@@ -44,6 +44,7 @@ P3ST - Provided Placeholder Assets
 
 [YinyangGio1987](https://twitter.com/YinyangGio1987) - Worked on WDW render painting
 
+[dokotroopi](https://twitter.com/dokotroopi) - Worked on adding textures
 *RESRGAN contributors*
 ------------------------
 https://github.com/pokeheadroom/RESRGAN-16xre-upscale-HD-texture-pack/tree/n64-resrgan-faithful
