@@ -45,6 +45,7 @@ P3ST - Provided Placeholder Assets
 [YinyangGio1987](https://twitter.com/YinyangGio1987) - Worked on WDW render painting
 
 [dokotroopi](https://twitter.com/dokotroopi) - Worked on adding textures
+
 *RESRGAN contributors*
 ------------------------
 https://github.com/pokeheadroom/RESRGAN-16xre-upscale-HD-texture-pack/tree/n64-resrgan-faithful
