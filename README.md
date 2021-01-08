@@ -16,7 +16,7 @@ DorfDork
 
 Clamibalism
 
-[Fanamel](https://twitter.com/FanamelT) - Found Matches/Provided Hires Links, Maintains Spreadsheet
+[Fanamel](https://twitter.com/FanamelT) - Found Matches/Provided Hires Links, Maintains Spreadsheet, Worked on adding textures
 
 [Roovahlees](https://www.youtube.com/channel/UCrOHwRwupiQSqbKih14MnHQ) - Found Matches/Provided Hires Links
 
@@ -45,6 +45,8 @@ P3ST - Provided Placeholder Assets
 [YinyangGio1987](https://twitter.com/YinyangGio1987) - Worked on WDW render painting
 
 [dokotroopi](https://twitter.com/dokotroopi) - Worked on adding textures
+
+[MtH](https://twitter.com/MtH13208) - Worked on adding textures
 
 *RESRGAN contributors*
 ------------------------
