@@ -10,6 +10,7 @@ The end goal for this project is to use the original sources for every texture i
 
 
 Render 96 Discord server: discord.com/invite/render96
+
 Render 96 Contributors:
 ------------------------------
 [DorfDork](https://twitter.com/DorfDork)
