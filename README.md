@@ -9,10 +9,10 @@ A collaboration texture pack for Super Mario 64 with the people over at the OldS
 The end goal for this project is to use the original sources for every texture in the game when possible, and use that to hopefully achieve 100% accuracy by recreating the textures with the same process and resources Nintendo had at their disposal back in 1996, as well of incorporating elements from the promotional art into the game with ESRGAN upscales as placeholders for the original textures. The team and I will make to fill in the blanks where no texture sources could be found.
 
 
-Render 96/OldSchool HD Discord server: discord.gg/DZU3FSD
+Render 96 Discord server: discord.com/invite/render96
 Render 96 Contributors:
 ------------------------------
-DorfDork
+[DorfDork](https://twitter.com/DorfDork)
 
 Clamibalism
 
@@ -47,6 +47,13 @@ P3ST - Provided Placeholder Assets
 [dokotroopi](https://twitter.com/dokotroopi) - Worked on adding textures
 
 [MtH](https://twitter.com/MtH13208) - Worked on adding textures
+
+[Bradley](https://www.youtube.com/channel/UCYEasINbPTxXiUMHivtYxWg/featured) - Worked on Jolly Roger Bay painting
+
+[Nugget](https://twitter.com/7h3nugg3tm4st3R) - Worked on Tiny huge island painting
+
+Shoutouts to [Cupscale](https://github.com/n00mkrad/cupscale) by [N00MKRAD](https://www.patreon.com/n00mkrad) from the [Game Upscale](https://discord.gg/nbB4A5F) discord server which as of lately i have been using a lot to further enhance some of the old texture finds we've coming across.
+go support him if you can
 
 *RESRGAN contributors*
 ------------------------
