@@ -1,0 +1,5 @@
+Low Poly Promo Models + Promo Luigi by frozenmeatpopsicle
+Low Poly Promo Pokey by FoX
+Textures taken directly from the Render 96 texture pack, 
+downscaled by me to be made n64 compatible, as well as
+being compatible with any port
