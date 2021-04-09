@@ -55,6 +55,10 @@ P3ST - Provided Placeholder Assets
 
 [Maz](https://twitter.com/_Mazeo_) - Worked on luigi key
 
+[sarah_taylor] - downscaled texture pack to n64 resolution
+
+[FoX] - made low poly promo versions of pokey and goomba for the downscaled r96 pack
+
 Shoutouts to the [Game Upscale](https://discord.gg/nbB4A5F) discord server and to [N00MKRAD](https://www.patreon.com/n00mkrad) creator of [Cupscale](https://github.com/n00mkrad/cupscale) which is a tool that as of lately i have been using a lot to further enhance some of the old texture finds we've been coming across.
 go support him if you can
 
