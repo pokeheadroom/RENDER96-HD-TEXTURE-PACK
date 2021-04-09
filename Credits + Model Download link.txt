@@ -1,5 +1,10 @@
 Low Poly Promo Pokey by FoX
 Low Poly Promo Goomba by FoX
+
+Get the Promo Models Here
+
+https://github.com/aspieweeb759/Random-stuff-/releases/tag/main
+
 Textures taken directly from the Render 96 texture pack, 
 downscaled by me to be made n64 compatible, as well as
 being compatible with any port
