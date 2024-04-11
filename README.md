@@ -19,7 +19,9 @@ Clamibalism
 
 [Fanamel](https://twitter.com/FanamelT) - Found Matches/Provided Hires Links, Maintains Spreadsheet, Worked on adding textures
 
-[Roovahlees](https://www.youtube.com/channel/UCrOHwRwupiQSqbKih14MnHQ) - Found Matches/Provided Hires Links
+[CharlyCN](https://x.com/CharlyCNintendo?t=vZDZF09qsZNg2XhidkY1kw&s=09) - Found Matches/Provided Hires Links, Found source imagery for WDW skybox
+
+[Roovahlees](https://www.youtube.com/channel/UCrOHwRwupiQSqbKih14MnHQ) - Found Matches/Provided Hires Links, Worked on adding textures, Render 96 Texture Pack lead, Runs the VGTP twitter account
 
 [Poke Headroom](https://twitter.com/PokeHeadroom) - Found Matches/Provided Hires Links, Worked on adding textures, Render 96 Texture Pack lead
 
@@ -57,7 +59,7 @@ P3ST - Provided Placeholder Assets
 
 Shoutouts to [GhostlyDark](https://evilgames.eu/) for keeping an eye out for the technical stuff
 
-Shoutouts to the [Game Upscale](https://discord.gg/nbB4A5F) discord server and to [N00MKRAD](https://www.patreon.com/n00mkrad) creator of [Cupscale](https://github.com/n00mkrad/cupscale) which is a tool that as of lately i have been using a lot to further enhance some of the old texture finds we've been coming across.
+Shoutouts to the [Game Upscale](https://discord.gg/nbB4A5F) discord server and to [N00MKRAD](https://www.patreon.com/n00mkrad) creator of [Cupscale](https://github.com/n00mkrad/cupscale) which is a tool that as of 2022 i had been using a lot to further enhance some of the old texture finds we've been coming across.
 go support him if you can
 
 *RESRGAN contributors*
