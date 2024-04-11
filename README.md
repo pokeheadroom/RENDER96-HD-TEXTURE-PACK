@@ -5,7 +5,7 @@ https://linktr.ee/Render96
 Huge shoutouts to DorfDork for creating the RENDER96 PROJECT and for letting me be a part of it.
 
 A collaboration texture pack for Super Mario 64 with the people over at the OldSchool HD, now known as Render 96, that is made of a compillation of the best results ESRGAN upscaling could make as the base for this project, as well of some of the original textures Nintendo used, and a heavier focus in original textures made by project contributors which will eventually be an overwhelming majority of what this project is made of.
-
+(as of 2022-2023 most if not every upscale has been replaced by original work or the source images the sm64 team built the original textures with. please visit [VGTP](https://x.com/Render96VGTP?t=DqSsVpI74H2rhrgW9ugbHw&s=09) to stay up to date with the latest texture discoveries)
 The end goal for this project is to use the original sources for every texture in the game when possible, and use that to hopefully achieve 100% accuracy by recreating the textures with the same process and resources Nintendo had at their disposal back in 1996, as well of incorporating elements from the promotional art into the game with ESRGAN upscales as placeholders for the original textures. The team and I will make to fill in the blanks where no texture sources could be found.
 
 
