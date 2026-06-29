@@ -1,8 +1,5 @@
-my-r96hdtp-contributions
+RENDER96-HD-TEXTURE-PACK
 --------------------------
-Fork of pokeheadroom/RENDER96-HD-TEXTURE-PACK for my pull requests.
-
-Original text:
 
 https://linktr.ee/Render96
 
