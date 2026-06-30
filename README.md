@@ -8,8 +8,7 @@ A collaboration texture pack for Super Mario 64 with the people over at the OldS
 (as of 2022-2023 most if not every upscale has been replaced by original work or the source images the sm64 team built the original textures with. please visit [VGTP](https://x.com/Render96VGTP?t=DqSsVpI74H2rhrgW9ugbHw&s=09) to stay up to date with the latest texture discoveries)
 The end goal for this project is to use the original sources for every texture in the game when possible, and use that to hopefully achieve 100% accuracy by recreating the textures with the same process and resources Nintendo had at their disposal back in 1996, as well of incorporating elements from the promotional art into the game with ESRGAN upscales as placeholders for the original textures. The team and I will make to fill in the blanks where no texture sources could be found.
 
-
-Render 96 Discord server: discord.com/invite/render96
+Render 96 Discord server: https://discord.gg/phRCQrNZRK
 
 Render 96 Contributors:
 ------------------------------
